@@ -3,7 +3,7 @@
   "network": "localhost",
   "rpcUrl": "http://127.0.0.1:8545",
   "chainId": 31337,
-  "deployedAt": "2026-11-18T06:32:27.941Z",
+  "deployedAt": "2026-11-18T17:51:11.257Z",
   "deployer": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",
   "abi": [
     {
