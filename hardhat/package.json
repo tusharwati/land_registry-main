@@ -1,0 +1,16 @@
+{
+  "name": "land-registry-hardhat",
+  "version": "1.0.0",
+  "description": "Hardhat Smart Contracts for Land Registry",
+  "main": "index.js",
+  "scripts": {
+    "node": "hardhat node",
+    "compile": "hardhat compile",
+    "deploy": "hardhat run scripts/deploy.js --network localhost",
+    "test": "hardhat test"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.0"
+  }
+}

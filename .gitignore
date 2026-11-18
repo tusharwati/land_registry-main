@@ -1,0 +1,25 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Uploaded images
+server/uploads/
+
+# Hardhat generated files
+artifacts/
+cache/
+
+# Build files
+dist/
+build/
+
+# Logs
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
